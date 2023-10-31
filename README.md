@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fahmi Bin Mohd Zainal</h1>
-<h3 align="center">Data Analyst with Physics Background 📊 | Data Scientist | Data Engineer | Second Lieutenant Reserved Officer</h3>
+<h1 align="center">Greetings to everyone👋, I'm Muhammad Fahmi Bin Mohd Zainal</h1>
+<h3 align="center">Data Analyst with Physics Background 📊 | Data Scientist | Data Engineer | Second Lieutenant Reserved Officer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmizainal17&label=Profile%20views&color=0e75b6&style=flat" alt="fahmizainal17" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Project entitled Uncovering Workforce Dynamics: Insights for Improved Retention, Fair Compensation, and Diversity](https://public.tableau.com/app/profile/muhammad.fahmi.bin.mohd.zainal/viz/Fahmi_HRAnalyticsStory/Story)
 
-- 🌱 I’m currently learning **Data Science in Machine Learning and Deep Learning**
+- 🌱 I’m currently learning [Data Science in Machine Learning and Deep Learning](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set) 
 
 - 👯 I’m looking to collaborate on [Machine Learning predictive model to predict companies' attrition rate and to improve companies' retention](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
 
