@@ -1,5 +1,5 @@
 <h1 align="center">Greetings to everyone👋, I'm Muhammad Fahmi Bin Mohd Zainal</h1>
-<h3 align="center">Data Analyst with Physics Background 📊 | Data Scientist | Data Engineer | Second Lieutenant Reserved Officer </h3>
+<h3 align="center">Data Analyst with Physics Background 📊 | Data Scientist 🚀| Data Engineer 👨‍💻| Second Lieutenant Reserved Officer 🎖 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmizainal17&label=Profile%20views&color=0e75b6&style=flat" alt="fahmizainal17" /> </p>
 
