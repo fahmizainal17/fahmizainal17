@@ -25,6 +25,19 @@
 
 - ⚡ Fun fact **I love listening to podcast,reading articles,watching educational to upgrade my skills on Data Analytics,Data Science,Data Engineering and Business because that is what I'm passionate about.Not to mention I love fishing and snorkelling.**
 
+- 🔐 My Expertise
+
+**IVR and Calls Analytics**
+**Survey Analytics**
+**Python,SQL,R**
+**Azure Databricks,AWS API Getaway,AWS Fargate,AWS S3,postgresql**
+**pyspark**
+**Dashboarding**
+**Excel,Google Sheet,Google** Colab,PowerBI,Tableau**
+**Streamlit Web app**
+**FastAPI**
+**Docker**
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fahmizainal17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahmizainal17_" height="30" width="40" /></a>
