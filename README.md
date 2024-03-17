@@ -1,5 +1,5 @@
 <h1 align="center">Greetings to everyone👋, I'm Muhammad Fahmi Bin Mohd Zainal</h1>
-<h3 align="center">Data Analyst with Physics Background 📊 | Data Scientist 🚀| Data Engineer 👨‍💻| Second Lieutenant Reserved Officer 🎖 </h3>
+<h3 align="center">Full-Stack Data Scientist with Physics Background 🚀| Data Engineer 👨‍💻| Second Lieutenant Reserved Officer 🎖 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmizainal17&label=Profile%20views&color=0e75b6&style=flat" alt="fahmizainal17" /> </p>
 
@@ -28,14 +28,24 @@
 - 🔐 My Expertise
 
 **IVR and Calls Analytics**
+
 **Survey Analytics**
+
 **Python,SQL,R**
-**Azure Databricks,AWS API Getaway,AWS Fargate,AWS S3,postgresql**
+
+**Azure Databricks,AWS API Getaway,AWS** **Fargate,AWS S3,postgresql**
+
 **pyspark**
+
 **Dashboarding**
-**Excel,Google Sheet,Google** Colab,PowerBI,Tableau**
+
+**Excel,Google Sheet,Google**
+**Colab,PowerBI,Tableau**
+
 **Streamlit Web app**
+
 **FastAPI**
+
 **Docker**
  
 <h3 align="left">Connect with me:</h3>
