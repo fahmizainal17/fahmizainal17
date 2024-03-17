@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahmizainal17" alt="fahmizainal17" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/fahmizainal17_" target="blank"><img src="https://img.shields.io/twitter/follow/fahmizainal17_?logo=twitter&style=for-the-badge" alt="fahmizainal17_" /></a> </p>
-
 - 🔭 I’m currently working on [Project entitled Uncovering Workforce Dynamics: Insights for Improved Retention, Fair Compensation, and Diversity](https://public.tableau.com/app/profile/muhammad.fahmi.bin.mohd.zainal/viz/Fahmi_HRAnalyticsStory/Story)
 
 - 🌱 I’m currently learning [Data Science in Machine Learning and Deep Learning](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set) 
