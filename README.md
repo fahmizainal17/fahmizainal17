@@ -15,7 +15,7 @@
 
 - 🤝 **Expertise Integration**: My ambition extends to creating an integrated solution that leverages my dual expertise in **Data Science** and **Full-Stack Software Engineering**. This includes developing a comprehensive platform that provides personalized career guidance, aiming to assist students and graduates in navigating their career paths effectively. Utilizing advanced technologies such as **FastAPI**, **Azure Databricks**, **AWS API Gateway**, **AWS Fargate**, **AWS S3**, and **Docker**, this platform will represent a synthesis of analytic insight and application development.
 
-Combining my expertise in Data **IVR and Calls Analytics**, **Survey Analytics**, and **Machine Learning** with a profound understanding of **Streamlit Web Application**, **Azure Databricks**, **Python Programming**, **API**, and **Agile Methodology**, I am on a path to becoming an impactful leader in the tech industry. With a goal to ascend to a C-suite position by 2028, I am committed to leveraging my analytics mindset, leadership acumen, and managerial capabilities to lead teams efficiently, foster innovation, and drive success.
+Combining my expertise in **Survey Analytics**, **IVR and Calls Analytics**, and **Machine Learning** with a profound understanding of **Streamlit Web Application**, **Azure Databricks**, **Programming**, **API**, and **Agile Methodology**, I am on a path to becoming an impactful leader in the tech industry. With a goal to ascend to a C-suite position by 2028, I am committed to leveraging my analytics mindset, leadership acumen, and managerial capabilities to lead teams efficiently, foster innovation, and drive success.
 
 ---
 
