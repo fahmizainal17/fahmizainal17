@@ -5,15 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahmizainal17" alt="fahmizainal17" /></a> </p>
 
-- 🔭 I’m currently working on [Project entitled Uncovering Workforce Dynamics: Insights for Improved Retention, Fair Compensation, and Diversity](https://public.tableau.com/app/profile/muhammad.fahmi.bin.mohd.zainal/viz/Fahmi_HRAnalyticsStory/Story)
+---
 
-- 🌱 I’m currently learning [Data Science in Machine Learning and Deep Learning](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set) 
+- 🔭 **Current Endeavor**: Leading the ambitious project, [**"Uncovering Workforce Dynamics: Insights for Improved Retention, Fair Compensation, and Diversity"**](https://public.tableau.com/app/profile/muhammad.fahmi.bin.mohd.zainal/viz/Fahmi_HRAnalyticsStory/Story), I am at the forefront of merging data science insights with full-stack development to address critical HR analytics issues. This initiative aims to leverage comprehensive data analytics for actionable insights into workforce management, focusing on enhancing employee retention, ensuring fair compensation, and promoting diversity in the workplace.
 
-- 👯 I’m looking to collaborate on [Machine Learning predictive model to predict companies' attrition rate and to improve companies' retention](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
+- 🌱 **Professional Development**: Building upon a solid foundation in both data analytics and full-stack development, I am continuously advancing my expertise in **Data Science**, with a special focus on **Machine Learning and Deep Learning**. My commitment is towards applying these cutting-edge technologies to solve complex business challenges, as evidenced by [my exploration of relevant datasets](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set).
 
-- 🤝 I’m looking for help with [Front-end Development for apps that could suggest the best option for students and graduates who still do not know their career pathways](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
+- 👯 **Collaborative Ventures**: I am keenly looking for collaborative opportunities to develop a **Machine Learning predictive model** that anticipates company attrition rates and enhances employee retention strategies. This project is an intersection of predictive analytics and strategic management, aimed at empowering proactive workforce initiatives.
 
-- 👨‍💻 All of my projects are available at [https://public.tableau.com/app/profile/muhammad.fahmi.bin.mohd.zainal/vizzes](https://public.tableau.com/app/profile/muhammad.fahmi.bin.mohd.zainal/vizzes)
+- 🤝 **Expertise Integration**: My ambition extends to creating an integrated solution that leverages my dual expertise in **Data Science** and **Full-Stack Software Engineering**. This includes developing a comprehensive platform that provides personalized career guidance, aiming to assist students and graduates in navigating their career paths effectively. Utilizing advanced technologies such as **FastAPI**, **Azure Databricks**, **AWS API Gateway**, **AWS Fargate**, **AWS S3**, and **Docker**, this platform will represent a synthesis of analytic insight and application development.
+
+Combining my expertise in **IVR and Calls Analytics**, **Survey Analytics**, and **Machine Learning** with a profound understanding of **Python Programming**, **Streamlit Web Application**, **Visual Studio Code**, **Google Sheet API**, and **Azure Databricks**, I am on a path to becoming an impactful leader in the tech industry. With a goal to ascend to a C-suite position by 2028, I am committed to leveraging my analytics mindset, leadership acumen, and managerial capabilities to lead teams efficiently, foster innovation, and drive success.
+
+---
+
 
 - 📝 I regularly write articles on [www.linkedin.com/in/muhammadfahmibinmohdzainal](www.linkedin.com/in/muhammadfahmibinmohdzainal)
 
