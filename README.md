@@ -26,27 +26,44 @@
 - ⚡ Fun fact **I love listening to podcast,reading articles,watching educational to upgrade my skills on Data Analytics,Data Science,Data Engineering and Business because that is what I'm passionate about.Not to mention I love fishing and snorkelling.**
 
 - 🔐 My Expertise
-
-**IVR and Calls Analytics**
-
-**Survey Analytics**
-
-**Python,SQL,R**
-
-**Azure Databricks,AWS API Getaway,AWS** **Fargate,AWS S3,postgresql**
-
-**pyspark**
-
-**Dashboarding**
-
-**Excel,Google Sheet,Google**
-**Colab,PowerBI,Tableau**
-
-**Streamlit Web app**
-
-**FastAPI**
-
-**Docker**
+<table>
+  <tr>
+    <th>Area</th>
+    <th>Technologies/Tools</th>
+  </tr>
+  <tr>
+    <td>IVR and Calls Analytics</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Survey Analytics</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>Python, SQL, R</td>
+  </tr>
+  <tr>
+    <td>Cloud & Databases</td>
+    <td>Azure Databricks, AWS API Gateway, AWS Fargate, AWS S3, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td>Data Processing</td>
+    <td>pyspark</td>
+  </tr>
+  <tr>
+    <td>Dashboarding</td>
+    <td>Excel, Google Sheet, Google Colab, PowerBI, Tableau</td>
+  </tr>
+  <tr>
+    <td>Web Development</td>
+    <td>Streamlit Web App, FastAPI</td>
+  </tr>
+  <tr>
+    <td>Containerization</td>
+    <td>Docker</td>
+  </tr>
+</table>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
