@@ -22,7 +22,7 @@ Combining my expertise in **Survey Analytics**, **IVR and Calls Analytics**, and
 
 - 📝 I regularly write articles on [www.linkedin.com/in/muhammadfahmibinmohdzainal](www.linkedin.com/in/muhammadfahmibinmohdzainal)
 
-- 💬 Ask me about **Physics & Data Analysis**
+- 💬 Ask me about **Data Science,Physics,Data Analysis,Military,Silat Cekak**
 
 - 📫 How to reach me **fahmizainal9@gmail.com**
 
