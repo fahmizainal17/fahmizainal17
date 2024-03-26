@@ -33,11 +33,11 @@
   </tr>
   <tr>
     <td>IVR and Calls Analytics</td>
-    <td>-</td>
+    <td>Google Colab, Streamlit Web Application, Visual Studio Code, Google Sheet API, Google Sheet Dashboard, Azure DataBricks, PySpark</td>
   </tr>
   <tr>
     <td>Survey Analytics</td>
-    <td>-</td>
+    <td>Google Colab, Streamlit Web Application, Visual Studio Code, Google Sheet API, Google Sheet Dashboard, Azure DataBricks, PySpark</td>
   </tr>
   <tr>
     <td>Languages</td>
@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td>Data Processing</td>
-    <td>pyspark</td>
+    <td>PySpark</td>
   </tr>
   <tr>
     <td>Dashboarding</td>
@@ -64,6 +64,7 @@
     <td>Docker</td>
   </tr>
 </table>
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
