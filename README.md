@@ -171,10 +171,24 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/fahmizaina8"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/fahmizaina8" /></a></p><br><br>
+<p>
+    <a href="https://www.buymeacoffee.com/fahmizaina8">
+        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+    </a>
+</p>
+<br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmizainal17&show_icons=true&locale=en&layout=compact" alt="fahmizainal17" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmizainal17&show_icons=true&locale=en&layout=compact" alt="fahmizainal17" />
+</p>
+<br><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fahmizainal17&show_icons=true&locale=en" alt="fahmizainal17" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=fahmizainal17&show_icons=true&locale=en" alt="fahmizainal17" />
+</p>
+<br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmizainal17&" alt="fahmizainal17" /></p>
+<p>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmizainal17&" alt="fahmizainal17" />
+</p>
+<br><br>
