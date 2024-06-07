@@ -6,7 +6,7 @@
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=fahmizainal17)
 
-## 🔭 Current Endeavor
+## 🌱 Professional Development
 ### INVOKE SOLUTIONS, Kuala Lumpur (November 2023 – Now)
 #### Data Scientist
 **Surveys Making, Automation and Optimization:**
@@ -31,7 +31,6 @@
 **Data Warehouse Management:**
 - Oversaw the maintenance of the INVOKE’s data warehouse, ensuring robust integration and customization of dashboards to optimize data analytics capabilities.
 
-## 🌱 Professional Development
 ### KHAZANAH YOUTH DEVELOPMENT PROGRAMME, Kuala Lumpur (September 2023 – October 2023 Excelerate Asia)
 #### Data Analytics Bootcamp (General Assembly)
 - Workforce Dynamics Insights Project: Enhanced data integrity and workforce management through expert data wrangling with Excel and development of Interactive Tableau Dashboards, providing crucial insights into Retention, Compensation Fairness, and Diversity.
