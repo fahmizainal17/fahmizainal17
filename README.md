@@ -70,14 +70,14 @@
   </tr>
   <tr>
     <td>IVR and Calls Analytics</td>
-    <td>Google Colab, Streamlit Web Application, Visual Studio Code, Google Sheet API, Google Sheet Dashboard, Azure DataBricks, PySpark</td>
+    <td>Google Colab, Streamlit Web Application, Visual Studio Code, Google Sheet API, Google Sheet Dashboard, DataBricks, PySpark</td>
   </tr>
     <td>Languages</td>
-    <td>Python, SQL, R</td>
+    <td>Python, SQL, R, Html, JavaScript</td>
   </tr>
   <tr>
     <td>Cloud & Databases</td>
-    <td>Azure Databricks,AWS API Gateway, AWS Fargate, AWS S3, AWS EC2, AWS ECR, AWS ECS, PostgreSQL</td>
+    <td>Databricks,AWS API Gateway, AWS Fargate, AWS S3, AWS EC2, AWS ECR, AWS ECS, PostgreSQL</td>
   </tr>
   <tr>
     <td>Data Processing</td>
