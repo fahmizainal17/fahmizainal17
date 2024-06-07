@@ -1,10 +1,11 @@
-# Greetings to everyone👋, I'm Muhammad Fahmi Bin Mohd Zainal
+<h1 align="center">Greetings to everyone👋, I'm Muhammad Fahmi Bin Mohd Zainal</h1>
+<h3 align="center">Full-Stack Data Scientist with Physics Background 🚀| Data Engineer 👨‍💻| Second Lieutenant Reserved Officer 🎖 </h3>
 
-## Full-Stack Data Scientist with Physics Background 🚀| Data Engineer 👨‍💻| Second Lieutenant Reserved Officer 🎖
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmizainal17&label=Profile%20views&color=0e75b6&style=flat" alt="fahmizainal17" /> </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=fahmizainal17&label=Profile%20views&color=0e75b6&style=flat)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahmizainal17" alt="fahmizainal17" /></a> </p>
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=fahmizainal17)
+---
 
 ## 🌱 Professional Development
 ### INVOKE SOLUTIONS, Kuala Lumpur (November 2023 – Now)
@@ -13,7 +14,7 @@
 - Led the design and implementation of the IVR Data Cleaner, Questionnaire Definer, and Keypress Decoder, significantly improving the efficiency of data processes from 4 hours to 30 minutes.
 - Spearheaded and handled survey projects for call sampling, weighting, and visualization through crosstabs and charts utilizing Google Colab, Azure Databricks, and in-house web applications.
 - Developed and integrated Unified Survey web applications using Streamlit, enhancing collaboration by merging functionalities with team-developed applications in Streamlit and Shiny Apps utilizing FastAPI, supported by Docker, AWS Services, and GitHub Actions (CI/CD).
-- Architected data for Inisiatif Pendapatan Rakyat (IPR) utilizing data mining techniques and Geocoding API to map the locality (latitude and longitude) and postcode.
+- Architected data structure and profiling for Inisiatif Pendapatan Rakyat (IPR) utilizing data mining techniques and Geocoding API to map the locality (latitude and longitude) and postcode.
 - Taught and guided interns for in-house training in conducting surveys and utilizing Streamlit for proof of concept.
 
 **Machine Learning Development:**
@@ -50,71 +51,130 @@
 
 ---
 
-### 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/muhammadfahmibinmohdzainal)
 
-### 💬 Ask me about **Data Science, Physics, Data Analysis, Military, Silat Cekak, Skop Production Movies**
+- 📝 I regularly write articles on [www.linkedin.com/in/muhammadfahmibinmohdzainal](www.linkedin.com/in/muhammadfahmibinmohdzainal)
 
-### 📫 How to reach me: **[fahmizainal9@gmail.com](mailto:fahmizainal9@gmail.com)**
+- 💬 Ask me about **Data Science,Physics,Data Analysis,Military,Silat Cekak,Skop Production Movies**
 
-### 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/muhammadfahmibinmohdzainal)
+- 📫 How to reach me **fahmizainal9@gmail.com**
 
-### ⚡ Fun fact: I love listening to podcasts, reading articles, and watching educational videos to upgrade my skills in Data Analytics, Data Science, Data Engineering, and Business. Not to mention, I love fishing and snorkeling.
+- 📄 Know about my experiences [www.linkedin.com/in/muhammadfahmibinmohdzainal](www.linkedin.com/in/muhammadfahmibinmohdzainal)
 
----
+- ⚡ Fun fact **I love listening to podcast,reading articles,watching educational to upgrade my skills on Data Analytics,Data Science,Data Engineering and Business because that is what I'm passionate about.Not to mention I love fishing and snorkelling.**
 
-### 🔐 My Expertise
-| Area                      | Technologies/Tools                                                                                                      |
-|---------------------------|------------------------------------------------------------------------------------------------------------------------|
-| IVR and Calls Analytics   | Google Colab, Streamlit Web Application, Visual Studio Code, Google Sheet API, Google Sheet Dashboard, Azure Databricks, PySpark |
-| Survey Automation         | Google Colab, Streamlit Web Application, Visual Studio Code, Google Sheet API, Google Sheet Dashboard, Azure Databricks, PySpark |
-| Languages                 | Python, SQL, R                                                                                                         |
-| Cloud & Databases         | Azure Databricks, AWS API Gateway, AWS Fargate, AWS S3, PostgreSQL                                                     |
-| Data Processing           | PySpark                                                                                                                |
-| Dashboarding              | Excel, Google Sheet, Google Colab, PowerBI, Tableau                                                                    |
-| Web Development           | Streamlit Web App, FastAPI                                                                                             |
-| Containerization          | Docker                                                                                                                 |
+- 🔐 My Expertise
+<table>
+  <tr>
+    <th>Area</th>
+    <th>Technologies/Tools</th>
+  </tr>
+  <tr>
+    <td>IVR and Calls Analytics</td>
+    <td>Google Colab, Streamlit Web Application, Visual Studio Code, Google Sheet API, Google Sheet Dashboard, Azure DataBricks, PySpark</td>
+  </tr>
+    <td>Languages</td>
+    <td>Python, SQL, R</td>
+  </tr>
+  <tr>
+    <td>Cloud & Databases</td>
+    <td>Azure Databricks,AWS API Gateway, AWS Fargate, AWS S3, AWS EC2, AWS ECR, AWS ECS, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td>Data Processing</td>
+    <td>PySpark</td>
+  </tr>
+  <tr>
+    <td>Dashboarding</td>
+    <td>Excel, Google Sheet, Google Colab, PowerBI, Tableau</td>
+  </tr>
+  <tr>
+    <td>Web Development</td>
+    <td>Streamlit Web App, FastAPI</td>
+  </tr>
+  <tr>
+    <td>Containerization</td>
+    <td>Docker</td>
+  </tr>
+</table>
 
-### Connect with me:
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/fahmizainal17_) 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/muhammadfahmibinmohdzainal) 
-[![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://kaggle.com/fahmizainal) 
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/fahmizainal) 
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/fahmizainal17) 
-[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/c/@fahmizainal7695)
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/fahmizainal17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahmizainal17_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadfahmibinmohdzainal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadfahmibinmohdzainal" height="30" width="40" /></a>
+<a href="https://kaggle.com/fahmizainal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fahmizainal" height="30" width="40" /></a>
+<a href="https://fb.com/fahmizainal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahmizainal" height="30" width="40" /></a>
+<a href="https://instagram.com/fahmizainal17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahmizainal17" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@fahmizainal7695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@fahmizainal7695" height="30" width="40" /></a>
+</p>
 
-### Languages and Tools:
-![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)
-![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
-![Hadoop](https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg)
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![Matlab](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)
-![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)
-![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg)
-![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)
-![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)
-![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
-![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
-![Selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg)
-![Solr](https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg)
-![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    </a>
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+    </a>
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    </a>
+    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+    </a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    </a>
+    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+    </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    </a>
+</p>
 
-### Support:
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/fahmizaina8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fahmizainal17&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahmizainal17&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahmizainal17)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/fahmizaina8"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/fahmizaina8" /></a></p><br><br>
 
-### Call to Action
-If you find my work interesting, consider following me on GitHub for more updates and projects. [Follow me on GitHub](https://github.com/fahmizainal17)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmizainal17&show_icons=true&locale=en&layout=compact" alt="fahmizainal17" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahmizainal17&show_icons=true&locale=en" alt="fahmizainal17" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahmizainal17&" alt="fahmizainal17" /></p>
