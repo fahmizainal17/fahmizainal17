@@ -1,10 +1,7 @@
 <div align="center">
     <a href="https://github.com/fahmizainal17">
-        <img src="https://img.shields.io/badge/Follow%20Me%20Now%20on%20GitHub-blue?style=for-the-badge" alt="Follow Me Now on GitHub"/>
+        <img src="https://img.shields.io/badge/Follow%20Me%20Now%20on%20GitHub-blue?style=for-the-badge" alt="Follow Me Now on GitHub 👈"/>
     </a>
-</div>
-<div align="center" style="margin-top: 10px;">
-    <span style="font-size: 2em;">👈</span>
 </div>
 
 <h1 align="center">Greetings to everyone👋, I'm Fahmi Zainal</h1>
