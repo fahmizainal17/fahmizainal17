@@ -1,11 +1,14 @@
-<h1 align="center">Greetings to everyone👋, I'm Muhammad Fahmi Bin Mohd Zainal</h1>
-<h3 align="center">Full-Stack Data Scientist with Physics Background 🚀| Data Engineer 👨‍💻| Second Lieutenant Reserved Officer 🎖 </h3>
-
 <div align="center">
     <a href="https://github.com/fahmizainal17">
         <img src="https://img.shields.io/badge/Follow%20Me%20Now%20on%20GitHub-blue?style=for-the-badge" alt="Follow Me Now on GitHub"/>
     </a>
 </div>
+<div align="center" style="margin-top: 10px;">
+    <span style="font-size: 2em;">👈</span>
+</div>
+
+<h1 align="center">Greetings to everyone👋, I'm Fahmi Zainal</h1>
+<h3 align="center">Full-Stack Data Scientist with Physics Background 🚀| Data Engineer 👨‍💻| Second Lieutenant Reserved Officer 🎖 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmizainal17&label=Profile%20views&color=0e75b6&style=flat" alt="fahmizainal17" /> </p>
 
