@@ -79,7 +79,7 @@
     <td>Google Colab, Streamlit Web Application, Visual Studio Code, Google Sheet API, Google Sheet Dashboard, DataBricks, PySpark</td>
   </tr>
     <td>Languages</td>
-    <td>Python, SQL, R, Html, JavaScript</td>
+    <td>Python, SQL, R, Html5, CSS3 , JavaScript</td>
   </tr>
   <tr>
     <td>Cloud & Databases</td>
