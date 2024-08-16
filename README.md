@@ -20,7 +20,7 @@
 - Led the design and implementation of the IVR Data Cleaner, Questionnaire Definer, and Keypress Decoder, significantly improving the efficiency of data processes from 5 hours to 30 minutes.
 - Spearheaded and handled survey projects for call sampling, weighting, and visualization through crosstabs and charts utilizing Google Colab, Azure Databricks, and in-house web applications.
 - Developed and integrated Unified Survey web applications using Streamlit, enhancing collaboration by merging functionalities with team-developed applications in Streamlit and Shiny Apps utilizing FastAPI, supported by Docker, AWS Services, and GitHub Actions (CI/CD).
-- Architected data structure and profiling for Inisiatif Pendapatan Rakyat (IPR) utilizing data mining techniques and Geocoding API to map the locality (latitude and longitude) and postcode.
+- Architected data structure and profiling for utilizing data mining techniques and Geocoding API to map the locality (latitude and longitude) and postcode and other demographics data
 - Taught and guided interns for in-house training in conducting surveys and utilizing Streamlit for proof of concept.
 
 **Machine Learning Development:**
