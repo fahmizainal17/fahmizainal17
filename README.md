@@ -1,4 +1,8 @@
-[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-Streamlit%20App-brightgreen?style=for-the-badge&logo=streamlit)](https://fahmizainal-portfolio.streamlit.app/)
+<div align="center">
+    <a href="https://fahmizainal-portfolio.streamlit.app/">
+        <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Streamlit%20App-brightgreen?style=for-the-badge&logo=streamlit" alt="Visit My Portfolio"/>
+    </a>
+</div>
 
 <div align="center">
     <a href="https://github.com/fahmizainal17">
@@ -7,7 +11,7 @@
 </div>
 
 <h1 align="center">Greetings to everyone👋, I'm Fahmi Zainal</h1>
-<h3 align="center">Full-Stack Data Scientist with Physics Background 🚀| Data Engineer 👨‍💻| Second Lieutenant Reserved Officer 🎖 </h3>
+<h3 align="center">Data Scientist | Analytics Engineer | Survey | Digital Marketing | Software Development |ML & AI | ETL | Databricks | API Deployment | Azure & AWS DevOps Practitioner | Army Reserved Officer 🎖 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmizainal17&label=Profile%20views&color=0e75b6&style=flat" alt="fahmizainal17" /> </p>
 
