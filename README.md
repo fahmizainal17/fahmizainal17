@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center">Greetings to everyone👋, I'm Fahmi Zainal</h1>
-<h3 align="center">Data Scientist | Analytics Engineer | Survey | Digital Marketing | Software Development |ML & AI | ETL | Databricks | API Deployment | Azure & AWS DevOps Practitioner | Army Reserved Officer 🎖 </h3>
+<h3 align="center">Data Scientist | Analytics Engineer | Survey | Digital Marketing | Software Development |ML & AI | ETL | Databricks | API Deployment | Azure & AWS DevOps Practitioner | Second Lieutenant Reserved Officer 🎖 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmizainal17&label=Profile%20views&color=0e75b6&style=flat" alt="fahmizainal17" /> </p>
 
