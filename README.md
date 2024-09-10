@@ -1,3 +1,16 @@
+<!-- Greeting and Introduction -->
+<h1 align="center">Greetings to everyone<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Fahmi Zainal</h1>
+<h3 align="center">Data Scientist | Analytics Engineer | Survey | Digital Marketing | Software Development | ML & AI | ETL | Databricks | API Deployment | Azure & AWS DevOps Practitioner | Second Lieutenant Reserved Officer 🎖 </h3>
+
+
+<!-- Badge to Follow on GitHub -->
+<div align="center">
+    <a href="https://github.com/fahmizainal17">
+        <img src="https://img.shields.io/badge/Follow%20Me%20Now%20on%20GitHub-blue?style=for-the-badge" alt="Follow Me Now on GitHub 👈"/>
+    </a>
+</div>
+
+
 <!-- Badge to Visit My Portfolio -->
 <div align="center"> 
     <a href="https://fahmizainal-portfolio.streamlit.app/">
@@ -11,17 +24,6 @@
         <img src="assets/Home_Page_Portfolio.png" alt="Home Page Portfolio" style="max-width:100%;">
     </a>
 </div>
-
-<!-- Badge to Follow on GitHub -->
-<div align="center">
-    <a href="https://github.com/fahmizainal17">
-        <img src="https://img.shields.io/badge/Follow%20Me%20Now%20on%20GitHub-blue?style=for-the-badge" alt="Follow Me Now on GitHub 👈"/>
-    </a>
-</div>
-
-<!-- Greeting and Introduction -->
-<h1 align="center">Greetings to everyone<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Fahmi Zainal</h1>
-<h3 align="center">Data Scientist | Analytics Engineer | Survey | Digital Marketing | Software Development | ML & AI | ETL | Databricks | API Deployment | Azure & AWS DevOps Practitioner | Second Lieutenant Reserved Officer 🎖 </h3>
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmizainal17&label=Profile%20views&color=0e75b6&style=flat" alt="fahmizainal17" /> </p>
