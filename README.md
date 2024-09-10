@@ -226,11 +226,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python/R              3 hrs 53 mins   ████████████▓░░░░░░░░░░░░   51.02 %
-Jupyter Notebook      1 hr 23 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
-SQL                   1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
-HTML/CSS              32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Javascript            26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+From: 02 September 2024 - To: 09 September 2024
+
+Total Time: 0 secs
+
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
