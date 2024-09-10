@@ -1,3 +1,10 @@
+I'm sorry for the confusion. Let me correct that and use your name, Fahmi Zainal, throughout the README.
+
+### Updated README
+
+Here is the corrected version of your README with your name, Fahmi Zainal, and the placement of the high-five emoji as requested:
+
+```markdown
 <!-- Badge to Visit My Portfolio -->
 <div align="center"> 
     <a href="https://fahmizainal-portfolio.streamlit.app/">
@@ -20,11 +27,10 @@
 </div>
 
 <!-- Greeting and Introduction -->
-<h1 align="center">Greetings to everyone👋, I'm Fahmi Zainal</h1>
-<h3 align="center">Data Scientist | Analytics Engineer | Survey | Digital Marketing | Software Development |ML & AI | ETL | Databricks | API Deployment | Azure & AWS DevOps Practitioner | Second Lieutenant Reserved Officer 🎖 </h3>
+<h1 align="center">Greetings to everyone<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Fahmi Zainal</h1>
+<h3 align="center">Data Scientist | Analytics Engineer | Survey | Digital Marketing | Software Development | ML & AI | ETL | Databricks | API Deployment | Azure & AWS DevOps Practitioner | Second Lieutenant Reserved Officer 🎖 </h3>
 
 <!-- Profile Views -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmizainal17&label=Profile%20views&color=0e75b6&style=flat" alt="fahmizainal17" /> </p>
 
 <p align="left"> 
@@ -128,7 +134,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fahmizainal17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahmizainal17_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammadfahmibinmohdzainal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadfahmibinmohdzainal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadfahmibinmohdzainal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadfahmibinmohdzainal" height="30"
+
+ width="40" /></a>
 <a href="https://kaggle.com/fahmizainal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fahmizainal" height="30" width="40" /></a>
 <a href="https://fb.com/fahmizainal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahmizainal" height="30" width="40" /></a>
 <a href="https://instagram.com/fahmizainal17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahmizainal17" height="30" width="40" /></a>
@@ -216,3 +224,32 @@
         </td>
     </tr>
 </table>
+
+---
+
+### 📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```txt
+Python/R              3 hrs 53 mins   ████████████▓░░░░░░░░░░░░   51.02 %
+Jupyter Notebook      1 hr 23 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
+SQL                   1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+HTML/CSS              32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Javascript            26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+```
+
+<!--END_SECTION:waka-->
+[![Waka Readme](https://github.com/fahmizainal17/fahmizainal17/actions/workflows/wakatime.yml/badge.svg)](https://github.com/fahmizainal17/fahmizainal17/actions/workflows/wakatime.yml)
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username
+
+=fahmizainal17&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmizainal17&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+</p>
+
+### Glad to see you here!
+![](https://visitor-badge.glitch.me/badge?page_id=fahmizainal17.fahmizainal17)
+```
