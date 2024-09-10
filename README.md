@@ -1,10 +1,3 @@
-I'm sorry for the confusion. Let me correct that and use your name, Fahmi Zainal, throughout the README.
-
-### Updated README
-
-Here is the corrected version of your README with your name, Fahmi Zainal, and the placement of the high-five emoji as requested:
-
-```markdown
 <!-- Badge to Visit My Portfolio -->
 <div align="center"> 
     <a href="https://fahmizainal-portfolio.streamlit.app/">
