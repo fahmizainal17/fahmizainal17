@@ -234,13 +234,3 @@ Javascript            26 mins         █▒░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 [![Waka Readme](https://github.com/fahmizainal17/fahmizainal17/actions/workflows/wakatime.yml/badge.svg)](https://github.com/fahmizainal17/fahmizainal17/actions/workflows/wakatime.yml)
 
-📈 **My GitHub Stats:**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahmizainal17&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="Fahmi Zainal's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmizainal17&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8" alt="Fahmi Zainal's Most Used Languages"/>
-</p>
-
-### Glad to see you here!
-![](https://visitor-badge.glitch.me/badge?page_id=fahmizainal17.fahmizainal17)
-
