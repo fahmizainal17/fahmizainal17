@@ -233,8 +233,6 @@ Here's a stylish and well-formatted final `README.md` with the WakaTime badge an
 
 ### 📊 **This Week I Spent My Time On:**
 
-[![wakatime](https://wakatime.com/badge/user/ae82a943-125e-489a-a656-e35fe84d587b.svg?style=flat-square)](https://wakatime.com/@ae82a943-125e-489a-a656-e35fe84d587b)
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -275,26 +273,3 @@ Python   58 mins         ██████████████████�
 If you like my work, feel free to ⭐ my repositories, or buy me a coffee!
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/fahmizainal)
-
-
-### Explanation:
-
-1. **WakaTime Badge with "for-the-badge" Style:** 
-   - The "for-the-badge" style is used for the primary WakaTime badge to make it stand out.
-   
-2. **Additional Badges:**
-   - I've added badges for GitHub followers and stars using the "for-the-badge" style for consistency and a bold look.
-
-3. **Section for Weekly Coding Time:**
-   - Your original weekly coding time is retained, with a "flat-square" style badge for a modern look.
-
-4. **GitHub Stats and WakaTime Activity:**
-   - The `github-readme-stats` service is used to display your top languages and WakaTime activity in a visually appealing format.
-
-5. **Links to Other Repositories:**
-   - A section to highlight other repositories, making it easy for visitors to discover your work.
-
-6. **Connect and Support Sections:**
-   - Links to your LinkedIn and GitHub profiles, plus a "Buy Me A Coffee" link for those who want to support you.
-
-This final README layout makes your profile engaging and visually appealing, while effectively displaying your WakaTime stats and other relevant information.
