@@ -222,9 +222,9 @@ href="https://kaggle.com/fahmizainal" target="blank"><img align="center" src="ht
 ---
 Here's a stylish and well-formatted final `README.md` with the WakaTime badge and other elements integrated to make it look fancy and engaging. I've chosen the "for-the-badge" style for a more modern and bold appearance.
 
-### Final README
 
-```markdown
+
+
 ## 🚀 **Welcome to My GitHub Profile!**
 
 [![wakatime](https://wakatime.com/badge/user/ae82a943-125e-489a-a656-e35fe84d587b.svg?style=for-the-badge)](https://wakatime.com/@ae82a943-125e-489a-a656-e35fe84d587b)
@@ -275,7 +275,7 @@ Python   58 mins         ██████████████████�
 If you like my work, feel free to ⭐ my repositories, or buy me a coffee!
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/fahmizainal)
-```
+
 
 ### Explanation:
 
