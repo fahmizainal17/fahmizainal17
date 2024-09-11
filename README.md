@@ -220,12 +220,8 @@ href="https://kaggle.com/fahmizainal" target="blank"><img align="center" src="ht
 </table>
 
 ---
-Here's a stylish and well-formatted final `README.md` with the WakaTime badge and other elements integrated to make it look fancy and engaging. I've chosen the "for-the-badge" style for a more modern and bold appearance.
 
-
-
-
-## 🚀 **Welcome to My GitHub Profile!**
+## 🚀 **My Wakatime This Week!**
 
 [![wakatime](https://wakatime.com/badge/user/ae82a943-125e-489a-a656-e35fe84d587b.svg?style=for-the-badge)](https://wakatime.com/@ae82a943-125e-489a-a656-e35fe84d587b)
 [![GitHub followers](https://img.shields.io/github/followers/fahmizainal17?label=Follow&style=for-the-badge)](https://github.com/fahmizainal17)
@@ -247,29 +243,35 @@ Python   58 mins         ██████████████████�
 
 ---
 
-### 📈 **My Coding Stats:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmizainal17&layout=compact&theme=radical&hide_border=true)
-
-### 📅 **My WakaTime Activity:**
-
-![Fahmi's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fahmizainal17&layout=compact&theme=radical&hide_border=true)
-
-### 🎯 **Check Out My Other Repositories:**
-- 🚀 [Awesome Project 1](https://github.com/fahmizainal17/awesome-project-1)
-- 🌟 [Cool Tool 2](https://github.com/fahmizainal17/cool-tool-2)
-- 🔧 [Handy Utility 3](https://github.com/fahmizainal17/handy-utility-3)
-
----
-
-### 💬 **Connect with Me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahmizainal17)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/fahmizainal17)
-
----
-
 ### 🌟 **Support My Work:**
 
 If you like my work, feel free to ⭐ my repositories, or buy me a coffee!
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/fahmizainal)
+
+---
+
+<h3 align="left">Support:</h3>
+<table>
+    <tr>
+        <td colspan="2">
+            <a href="https://www.buymeacoffee.com/fahmizaina8">
+                <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmizainal17&show_icons=true&locale=en&layout=compact&theme=dark" alt="fahmizainal17" />
+        </td>
+        <td rowspan="2">
+            <img src="https://github-readme-stats.vercel.app/api?username=fahmizainal17&show_icons=true&locale=en&theme=dark" alt="fahmizainal17" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmizainal17&theme=dark" alt="fahmizainal17" />
+        </td>
+    </tr>
+</table>
+```
