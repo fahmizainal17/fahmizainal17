@@ -195,7 +195,7 @@ href="https://kaggle.com/fahmizainal" target="blank"><img align="center" src="ht
     </a>
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">🌟 Support My Work:</h3>
 <table>
     <tr>
         <td colspan="2">
@@ -242,32 +242,3 @@ Python   58 mins         ██████████████████�
 <!--END_SECTION:waka-->
 
 ---
-
-### 🌟 **Support My Work:**
-
----
-
-<h3 align="left">🌟 **Support My Work:**:</h3>
-<table>
-    <tr>
-        <td colspan="2">
-            <a href="https://www.buymeacoffee.com/fahmizaina8">
-                <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmizainal17&show_icons=true&locale=en&layout=compact&theme=dark" alt="fahmizainal17" />
-        </td>
-        <td rowspan="2">
-            <img src="https://github-readme-stats.vercel.app/api?username=fahmizainal17&show_icons=true&locale=en&theme=dark" alt="fahmizainal17" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmizainal17&theme=dark" alt="fahmizainal17" />
-        </td>
-    </tr>
-</table>
-```
