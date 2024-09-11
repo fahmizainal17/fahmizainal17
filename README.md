@@ -220,8 +220,21 @@ href="https://kaggle.com/fahmizainal" target="blank"><img align="center" src="ht
 </table>
 
 ---
+Here's a stylish and well-formatted final `README.md` with the WakaTime badge and other elements integrated to make it look fancy and engaging. I've chosen the "for-the-badge" style for a more modern and bold appearance.
+
+### Final README
+
+```markdown
+## 🚀 **Welcome to My GitHub Profile!**
+
+[![wakatime](https://wakatime.com/badge/user/ae82a943-125e-489a-a656-e35fe84d587b.svg?style=for-the-badge)](https://wakatime.com/@ae82a943-125e-489a-a656-e35fe84d587b)
+[![GitHub followers](https://img.shields.io/github/followers/fahmizainal17?label=Follow&style=for-the-badge)](https://github.com/fahmizainal17)
+[![GitHub Stars](https://img.shields.io/github/stars/fahmizainal17?affiliations=OWNER&style=for-the-badge)](https://github.com/fahmizainal17?tab=repositories)
 
 ### 📊 **This Week I Spent My Time On:**
+
+[![wakatime](https://wakatime.com/badge/user/ae82a943-125e-489a-a656-e35fe84d587b.svg?style=flat-square)](https://wakatime.com/@ae82a943-125e-489a-a656-e35fe84d587b)
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -233,5 +246,55 @@ Python   58 mins         ██████████████████�
 ```
 
 <!--END_SECTION:waka-->
-[![Waka Readme](https://github.com/fahmizainal17/fahmizainal17/actions/workflows/wakatime.yml/badge.svg)](https://github.com/fahmizainal17/fahmizainal17/actions/workflows/wakatime.yml)
 
+---
+
+### 📈 **My Coding Stats:**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahmizainal17&layout=compact&theme=radical&hide_border=true)
+
+### 📅 **My WakaTime Activity:**
+
+![Fahmi's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fahmizainal17&layout=compact&theme=radical&hide_border=true)
+
+### 🎯 **Check Out My Other Repositories:**
+- 🚀 [Awesome Project 1](https://github.com/fahmizainal17/awesome-project-1)
+- 🌟 [Cool Tool 2](https://github.com/fahmizainal17/cool-tool-2)
+- 🔧 [Handy Utility 3](https://github.com/fahmizainal17/handy-utility-3)
+
+---
+
+### 💬 **Connect with Me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahmizainal17)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/fahmizainal17)
+
+---
+
+### 🌟 **Support My Work:**
+
+If you like my work, feel free to ⭐ my repositories, or buy me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/fahmizainal)
+```
+
+### Explanation:
+
+1. **WakaTime Badge with "for-the-badge" Style:** 
+   - The "for-the-badge" style is used for the primary WakaTime badge to make it stand out.
+   
+2. **Additional Badges:**
+   - I've added badges for GitHub followers and stars using the "for-the-badge" style for consistency and a bold look.
+
+3. **Section for Weekly Coding Time:**
+   - Your original weekly coding time is retained, with a "flat-square" style badge for a modern look.
+
+4. **GitHub Stats and WakaTime Activity:**
+   - The `github-readme-stats` service is used to display your top languages and WakaTime activity in a visually appealing format.
+
+5. **Links to Other Repositories:**
+   - A section to highlight other repositories, making it easy for visitors to discover your work.
+
+6. **Connect and Support Sections:**
+   - Links to your LinkedIn and GitHub profiles, plus a "Buy Me A Coffee" link for those who want to support you.
+
+This final README layout makes your profile engaging and visually appealing, while effectively displaying your WakaTime stats and other relevant information.
