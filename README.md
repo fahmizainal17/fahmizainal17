@@ -61,7 +61,7 @@
 **Data Warehouse Management:**
 - Oversaw the maintenance of the INVOKE’s data warehouse, ensuring robust integration and customization of dashboards to optimize data analytics capabilities.
 
-### EXCELERATE ASIA, Kuala Lumpur (September 2023 – October 2023 Excelerate Asia)
+### EXCELERATE ASIA, Kuala Lumpur (September 2023 – October 2023)
 #### Data Analyst (General Assembly)
 - Workforce Dynamics Insights Project: Enhanced data integrity and workforce management through expert data wrangling with Excel and development of Interactive Tableau Dashboards, providing crucial insights into Retention, Compensation Fairness, and Diversity.
 - Global Superstore SQL Project: Leveraged PostgreSQL for robust data management and extraction to Tableau, analyzing trends in product returns to support strategic business decisions thus completing analytics bootcamp training.
