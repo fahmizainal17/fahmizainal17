@@ -129,10 +129,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fahmizainal17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahmizainal17_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammadfahmibinmohdzainal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadfahmibinmohdzainal" height="30"
-
- width="40" /></a>
-<a href="https://kaggle.com/fahmizainal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fahmizainal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadfahmibinmohdzainal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadfahmibinmohdzainal" height="30" width="40" /></a>
+<a 
+href="https://kaggle.com/fahmizainal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fahmizainal" height="30" width="40" /></a>
 <a href="https://fb.com/fahmizainal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahmizainal" height="30" width="40" /></a>
 <a href="https://instagram.com/fahmizainal17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahmizainal17" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@fahmizainal7695" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@fahmizainal7695" height="30" width="40" /></a>
