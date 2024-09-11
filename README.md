@@ -247,7 +247,7 @@ Python   58 mins         ██████████████████�
 
 ---
 
-<h3 align="left">Support:</h3>
+<h3 align="left">🌟 **Support My Work:**:</h3>
 <table>
     <tr>
         <td colspan="2">
