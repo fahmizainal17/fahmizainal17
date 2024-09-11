@@ -245,10 +245,6 @@ Python   58 mins         ██████████████████�
 
 ### 🌟 **Support My Work:**
 
-If you like my work, feel free to ⭐ my repositories, or buy me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/fahmizainal)
-
 ---
 
 <h3 align="left">Support:</h3>
