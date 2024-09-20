@@ -232,13 +232,12 @@ href="https://kaggle.com/fahmizainal" target="blank"><img align="center" src="ht
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2024 - To: 17 September 2024
+From: 11 September 2024 - To: 18 September 2024
 
-Total Time: 9 hrs 35 mins
+Total Time: 3 hrs
 
-Python   9 hrs 32 mins   ████████████████████████▓   99.01 %
-TOML     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Other    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Python   2 hrs 56 mins   ████████████████████████▓   98.11 %
+TOML     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
