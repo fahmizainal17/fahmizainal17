@@ -232,12 +232,15 @@ href="https://kaggle.com/fahmizainal" target="blank"><img align="center" src="ht
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2024 - To: 09 October 2024
+From: 03 October 2024 - To: 10 October 2024
 
-Total Time: 4 hrs 43 mins
+Total Time: 12 hrs 24 mins
 
-Python     3 hrs 45 mins   ████████████████████░░░░░   79.64 %
-Markdown   57 mins         █████░░░░░░░░░░░░░░░░░░░░   20.36 %
+Python       9 hrs 35 mins   ███████████████████▒░░░░░   76.88 %
+Markdown     1 hr 54 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+Text         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+TOML         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
