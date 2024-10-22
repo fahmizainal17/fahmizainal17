@@ -246,3 +246,5 @@ JSON         10 mins         ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
+## 🚀 **My Wakatime All Time!**
+<figure><embed src="https://wakatime.com/share/@fahmizainal17/216ba4ee-5f9b-4ae3-8022-30587ea3497a.svg"></embed></figure>
