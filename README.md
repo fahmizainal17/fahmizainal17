@@ -64,6 +64,12 @@ Currently, Fahmi leads **innovative projects** at INVOKE Solutions, specializing
 - Designed predictive models and dashboards for **digital campaign optimization**, increasing revenue by **50%**.  
 - Engineered ETL pipelines with **Databricks** and **MongoDB** for seamless data processing.
 
+### **Recommendation System Projects**  
+- **Movie Recommender System:** Built a **content-based filtering** model to recommend movies using metadata features such as genre, cast, and director.  
+- **Job Recommender System:** Developed a **hybrid model** combining collaborative filtering and content-based filtering to suggest tailored job opportunities.  
+- **Ads Recommender:** Engineered a machine learning model for **ad campaign optimization**, leveraging historical user behavior to rank ad sets by effectiveness.  
+- All systems deployed as **Streamlit web apps** for interactive user experiences, with backend integrations using **Python** and **FastAPI**.
+
 ### **Computer Vision for Pest Detection**  
 - Developed an API using **YOLOv5** for automated detection of **Metisa plana pupae** in images.  
 - Integrated with **Streamlit** for user interaction and deployed using **Docker**.
