@@ -129,6 +129,4 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
 </a>
 
----
 
-This streamlined structure emphasizes professionalism while showcasing your skills, achievements, and projects effectively. Let me know if you'd like additional tweaks!
