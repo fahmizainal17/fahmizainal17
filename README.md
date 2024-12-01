@@ -136,7 +136,7 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
 
 # **🌐 Connect with Me**
 
-<p align="center">
+<p 
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/fahmizainal17" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
