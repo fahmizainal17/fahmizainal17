@@ -102,10 +102,10 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
     </tr>
     <tr>
         <td align="center">
-            <img src="https://wakatime.com/share/@fahmizainal17/9382bc18-3649-4bdd-ae25-3f0e7fb3e83d.svg" alt="WakaTime Languages" width="400" height="200" />
+            <img src="https://wakatime.com/share/@fahmizainal17/9382bc18-3649-4bdd-ae25-3f0e7fb3e83d.svg" alt="WakaTime Languages" width="300" height="150" />
         </td>
         <td align="center">
-            <img src="https://wakatime.com/share/@fahmizainal17/60d681ba-39d0-4200-b78f-85bc6939e0bf.svg" alt="WakaTime Activity" width="400" height="200" />
+            <img src="https://wakatime.com/share/@fahmizainal17/60d681ba-39d0-4200-b78f-85bc6939e0bf.svg" alt="WakaTime Activity" width="300" height="150" />
         </td>
     </tr>
 </table>
@@ -114,20 +114,24 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
 
 <table>
     <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmizainal17&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/>
-        </td>
-        <td rowspan="2">
-            <img src="https://github-readme-stats.vercel.app/api?username=fahmizainal17&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
+        <td colspan="2" align="center">
+            <h4>GitHub Stats</h4>
         </td>
     </tr>
     <tr>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmizainal17&theme=dark" alt="Streak Stats"/>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=fahmizainal17&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="300" height="150" />
+        </td>
+        <td align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmizainal17&theme=dark" alt="Streak Stats" width="300" height="150" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmizainal17&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="400" height="150" />
         </td>
     </tr>
 </table>
-
 
 ---
 
