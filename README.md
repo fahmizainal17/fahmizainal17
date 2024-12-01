@@ -114,7 +114,7 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
 
 <table>
     <tr>
-        <td colspan="2" align="center">
+        <td colspan="3" align="center">
             <h4>GitHub Stats</h4>
         </td>
     </tr>
@@ -125,13 +125,12 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
         <td align="center">
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmizainal17&theme=dark" alt="Streak Stats" width="300" height="150" />
         </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
+        <td align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmizainal17&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="400" height="150" />
         </td>
     </tr>
 </table>
+
 
 ---
 
