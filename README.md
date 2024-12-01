@@ -136,7 +136,7 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
 
 # **🌐 Connect with Me**
 
-<p 
+<p>
     <!-- LinkedIn -->
     <a href="https://linkedin.com/in/fahmizainal17" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -157,6 +157,14 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
     <a href="https://fahmizainal-portfolio.streamlit.app/" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/0000FF/briefcase.png" alt="Portfolio" height="30" width="40" />
     </a>
+    <!-- Streamlit Cloud -->
+    <a href="https://share.streamlit.io/user/fahmizainal17" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/FF0000/cloud.png" alt="Streamlit Cloud" height="30" width="40" />
+    </a>
+    <!-- Hugging Face -->
+    <a href="https://huggingface.co/fahmizainal17" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/FFAE00/hugging-face.png" alt="Hugging Face" height="30" width="40" />
+    </a>
     <!-- Credly -->
     <a href="https://www.credly.com/users/muhammad-fahmi-mohd-zainal" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/ffa500/certificate.png" alt="Credly" height="30" width="40" />
@@ -166,7 +174,6 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
         <img src="https://img.icons8.com/ios-filled/50/0078d4/tableau-software.png" alt="Tableau" height="30" width="40" />
     </a>
 </p>
-
 
 ---
 
