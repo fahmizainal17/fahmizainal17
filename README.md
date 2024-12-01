@@ -96,6 +96,24 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
 
 <table>
     <tr>
+        <td colspan="2" align="center">
+            <h4>WakaTime Stats</h4>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <embed src="https://wakatime.com/share/@fahmizainal17/9382bc18-3649-4bdd-ae25-3f0e7fb3e83d.svg" width="400" height="200"></embed>
+        </td>
+        <td align="center">
+            <embed src="https://wakatime.com/share/@fahmizainal17/60d681ba-39d0-4200-b78f-85bc6939e0bf.svg" width="400" height="200"></embed>
+        </td>
+    </tr>
+</table>
+
+---
+
+<table>
+    <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahmizainal17&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/>
         </td>
@@ -110,16 +128,35 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
     </tr>
 </table>
 
+
 ---
 
 ## **🌐 Connect with Me**
 
 <p align="left">
-    <a href="https://linkedin.com/in/muhammadfahmibinmohdzainal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://kaggle.com/fahmizainal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-    <a href="https://twitter.com/fahmizainal17_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/@fahmizainal7695" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/fahmizainal17" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://kaggle.com/fahmizainal" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/fahmizainal17_" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/c/@fahmizainal7695" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+    </a>
+    <a href="https://fahmizainal-portfolio.streamlit.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Portfolio" height="30" width="40" />
+    </a>
+    <a href="https://www.credly.com/users/muhammad-fahmi-mohd-zainal" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/certificate.svg" alt="Credly" height="30" width="40" />
+    </a>
+    <a href="https://public.tableau.com/app/profile/muhammad.fahmi.bin.mohd.zainal/vizzes" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tableau.svg" alt="Tableau" height="30" width="40" />
+    </a>
 </p>
+
 
 ---
 
