@@ -102,10 +102,10 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
     </tr>
     <tr>
         <td align="center">
-            <embed src="https://wakatime.com/share/@fahmizainal17/9382bc18-3649-4bdd-ae25-3f0e7fb3e83d.svg" width="400" height="200"></embed>
+            <img src="https://wakatime.com/share/@fahmizainal17/9382bc18-3649-4bdd-ae25-3f0e7fb3e83d.svg" alt="WakaTime Languages" width="400" height="200" />
         </td>
         <td align="center">
-            <embed src="https://wakatime.com/share/@fahmizainal17/60d681ba-39d0-4200-b78f-85bc6939e0bf.svg" width="400" height="200"></embed>
+            <img src="https://wakatime.com/share/@fahmizainal17/60d681ba-39d0-4200-b78f-85bc6939e0bf.svg" alt="WakaTime Activity" width="400" height="200" />
         </td>
     </tr>
 </table>
