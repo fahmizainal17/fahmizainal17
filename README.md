@@ -163,7 +163,7 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
     </a>
     <!-- Hugging Face -->
     <a href="https://huggingface.co/fahmizainal17" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/FFAE00/hugging-face.png" alt="Hugging Face" height="30" width="40" />
+        🤗
     </a>
     <!-- Credly -->
     <a href="https://www.credly.com/users/muhammad-fahmi-mohd-zainal" target="_blank">
@@ -175,7 +175,6 @@ _For the full list, visit the Certifications section on [My Portfolio](https://f
     </a>
 </p>
 
----
 
 ## **☕ Support My Work**
 
