@@ -1,6 +1,6 @@
 # **👨‍💻 Fahmi Zainal**  
-### **Data Scientist | Transforming Insights into Impact**  
-**ML & AI Solutions Architect | Scalable ETL and API Deployment | Survey & Digital Strategy Innovator | Army Reserved Officer 🎖**
+### **Data Science Engineer🎖**  
+**ML & AI Solutions Architect | Scalable ETL and API Deployment | Survey & Digital Strategy Innovator**
 
 ---
 
